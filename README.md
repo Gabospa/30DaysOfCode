@@ -18,7 +18,9 @@ if any( [cond1 == 'val1', cond2 == 'val2', cond3 == 'val3', cond4 == 'val4'] ):
 ```
 From S.Lott on Stack Overflow
 ## Day 4: Class vs. Instance
+I learned that you can set conditions over the initial properties just after their declarations. Also practice on conditionals
 ## Day 5: Loops
+Easy maths and loops on Python. Iterables are very interesting. Lists, Tuples, dictionaries and sets are iterables. All have a iter() method
 ## Day 6: Let's Review
 ## Day 7: Arrays
 ## Day 8: Dictionaries and Maps
