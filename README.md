@@ -22,7 +22,10 @@ I learned that you can set conditions over the initial properties just after the
 ## Day 5: Loops
 Easy maths and loops on Python. Iterables are very interesting. Lists, Tuples, dictionaries and sets are iterables. All have a iter() method
 ## Day 6: Let's Review
+Good practice on string slices
 ## Day 7: Arrays
+Appliying slice and string to list methods
 ## Day 8: Dictionaries and Maps
+First take on Dictionaries, but it forces you to find about error handling, that is a tip to manage unknown numbers of inputs.
 ## Day 9: Recursion 3
 ## Day 10:
