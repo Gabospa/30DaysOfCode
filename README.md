@@ -28,4 +28,7 @@ Appliying slice and string to list methods
 ## Day 8: Dictionaries and Maps
 First take on Dictionaries, but it forces you to find about error handling, that is a tip to manage unknown numbers of inputs.
 ## Day 9: Recursion 3
+Not much to say, basics of recursion
 ## Day 10:
+Looks simple at first but had to spend some time thinking how to count the max of ones
+
