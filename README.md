@@ -35,3 +35,7 @@ Looks simple at first but had to spend some time thinking how to count the max o
 Good exercise to handle matrix index
 ## Day 12: Inheritance
 Just declaration of sub class, but good example to keep things simple
+## Day 13: Abstract Classes
+Abstract Classes could have a constructor and methods. There are serveral ways to implement empty methods.
+## Day 14: Scope
+Two loop cycles that check abs diference between elements and keep the max
