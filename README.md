@@ -38,4 +38,8 @@ Just declaration of sub class, but good example to keep things simple
 ## Day 13: Abstract Classes
 Abstract Classes could have a constructor and methods. There are serveral ways to implement empty methods.
 ## Day 14: Scope
-Two loop cycles that check abs diference between elements and keep the max
+Two loop cycles that check abs diference between elements and keep the max.
+## Day 15: Linked-List
+The most important thing is to understand how to traverse a linked list.
+## Day 16: Exceptions
+In this case, when the input type is wrong, the type of error is ValueError
