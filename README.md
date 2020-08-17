@@ -43,3 +43,11 @@ Two loop cycles that check abs diference between elements and keep the max.
 The most important thing is to understand how to traverse a linked list.
 ## Day 16: Exceptions
 In this case, when the input type is wrong, the type of error is ValueError
+## Day 17: More Exception
+Important use, an exception could be raised from a Class and be used over the main program
+## Day 18: Queues and Stacks
+Stacks are normal lists with propper care, queues came from collections, and remember to use popleft, not pop.
+## Day 19: Interfaces
+Important to learn about Abstract Classes and Interfaces. Python only have Abstract classes, Java uses Interfaces for multiple inheritance.
+## Day 20: Sorting
+Implementantion of Bubble Sort
