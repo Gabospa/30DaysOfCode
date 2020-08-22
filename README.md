@@ -51,3 +51,8 @@ Stacks are normal lists with propper care, queues came from collections, and rem
 Important to learn about Abstract Classes and Interfaces. Python only have Abstract classes, Java uses Interfaces for multiple inheritance.
 ## Day 20: Sorting
 Implementantion of Bubble Sort
+## Day 21: Generics
+Only file on C++. Generics was not available on Python, but you only need to undestand the logic of generics, which means a single function or class who could recive different type of inputs. Also important how to print statements on C++.
+## Day 22: Binary Search Trees
+Have to find the height of trees, which is the definition.
+
