@@ -55,4 +55,8 @@ Implementantion of Bubble Sort
 Only file on C++. Generics was not available on Python, but you only need to undestand the logic of generics, which means a single function or class who could recive different type of inputs. Also important how to print statements on C++.
 ## Day 22: Binary Search Trees
 Have to find the height of trees, which is the definition.
+## Day 23: BST Level Order Traversal
+The key is using a queue, understanding data structures. This is Breadth First Search
+## Day 24 : More Linked Lists
+Had to fight for a while with edge cases, is not hard but thing about several repeated values.
 
