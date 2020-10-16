@@ -59,4 +59,7 @@ Have to find the height of trees, which is the definition.
 The key is using a queue, understanding data structures. This is Breadth First Search
 ## Day 24 : More Linked Lists
 Had to fight for a while with edge cases, is not hard but thing about several repeated values.
-
+## Day 25: Running Time and Complexity
+You should always try to understand the algorithm before trying to code it. Why O(n**0.5)?. That's always lower than O(n)
+## Day 26: Nested Logic
+Beware of edge cases, logic is simple but keep in mind end of months and other special cases 
