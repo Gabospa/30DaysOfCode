@@ -65,3 +65,8 @@ You should always try to understand the algorithm before trying to code it. Why 
 Beware of edge cases, logic is simple but keep in mind end of months and other special cases
 ## Day 27: Testing
 Important to understand the meaning of the test, you just have to be clear with the results you want. 
+## Day 28: RegEx, Patterns, and Intro to databases
+Not so much about databases but simple example of Regex.
+## Day 29: Bitwise AND
+This was a genuine surprise, logic by brute force is simple, but you should try it and later improve it. There is a elegant solution to this problems. I had to look for this solution which only improves runtime but is not the best. The road is just beggining.
+
